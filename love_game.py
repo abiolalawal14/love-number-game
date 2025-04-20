@@ -38,7 +38,7 @@ if st.button("Submit Guess"):
             "You're as beautiful as the first time we met",
             "Your heart is as infinite as 8 ♾️",
             "I remember our first kiss so sweet and romantic",
-            "Perfect 10! Love is all around you 🌹"
+            "Cant wait to have you in my arms 🌹"
         ]
         st.warning(random.choice(love_quotes))
 
