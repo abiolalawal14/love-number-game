@@ -3,7 +3,7 @@ import random
 
 st.set_page_config(page_title="Omotoke Love Number Game", page_icon="💖")
 
-st.image("banner.png")  # Display the love banner
+st.image("omot.jpg")  # Display the love banner
 st.title("💖 Welcome to the Love Number Game 💖")
 st.write("Enter a number and receive a romantic message just for you!")
 
