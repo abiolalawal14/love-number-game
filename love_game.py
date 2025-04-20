@@ -34,6 +34,11 @@ if st.button("Submit Guess"):
             "Every miss brings us closer together. ❤️",
             "Even when you're wrong, you're charming. 💕",
             "Oops! But I still adore you. 😘"
+            "You're sweet like sugar 💖",
+            "You're lucky in love!",
+            "Your heart is as infinite as 8 ♾️",
+            "You shine brighter than 9 stars!",
+            "Perfect 10! Love is all around you 🌹"
         ]
         st.warning(random.choice(love_quotes))
 
