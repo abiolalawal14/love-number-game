@@ -11,7 +11,7 @@ if 'tries' not in st.session_state:
 if 'won' not in st.session_state:
     st.session_state.won = False
 
-st.title("💘 Our Love Number Game")
+st.title("💘 Hey Omotoke here is Our Love Number Game")
 st.markdown("Guess a number between 1 and 10 and get a sweet love message! 💌")
 
 guess = st.number_input("Enter your number:", min_value=1, max_value=10, step=1)
